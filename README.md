@@ -13,4 +13,4 @@
 - Pada kolom **Regex**, masukkan ekspresi reguler berikut untuk memblokir situs terkait Linux dan Ubuntu:
   
   ```regex
-  ^.+(linux.org|ubuntu.com).*$ 
+  ^.+(linux.org|ubuntu.com).*
